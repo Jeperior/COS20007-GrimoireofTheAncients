@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m36FTd/dOiA=",
+  "success": true,
+  "projectFilePath": "C:\\msys64\\home\\MyBook Hype AMD\\Grimoire\\Grimoire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MyBook Hype AMD\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
